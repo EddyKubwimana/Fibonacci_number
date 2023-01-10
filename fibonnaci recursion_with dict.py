@@ -1,4 +1,4 @@
-#utilazation of memoization concept
+#finding fibonacci numbers using recursive function
 import time
 def fib(n):
     if n == 0:
